@@ -1,4 +1,4 @@
-This program calculates the sum of an array of integers using OpenMP for parallelization.
+This simple program calculates the sum of an array of integers using OpenMP for parallelization.
 
 Array Initialization: The program initializes an array arr of size 1,000,000 with values from 1 to 1,000,000.
 
